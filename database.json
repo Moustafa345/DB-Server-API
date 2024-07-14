@@ -1,0 +1,295 @@
+{
+  "customers": [
+    {
+      "CustomerID": 1,
+      "CustomerName": "John Doe"
+    },
+    {
+      "CustomerID": 2,
+      "CustomerName": "Jane Smith"
+    },
+    {
+      "CustomerID": 3,
+      "CustomerName": "Michael Johnson"
+    },
+    {
+      "CustomerID": 4,
+      "CustomerName": "Emily Davis"
+    },
+    {
+      "CustomerID": 5,
+      "CustomerName": "David Wilson"
+    },
+    {
+      "CustomerID": 6,
+      "CustomerName": "Jessica Brown"
+    },
+    {
+      "CustomerID": 7,
+      "CustomerName": "Daniel Taylor"
+    },
+    {
+      "CustomerID": 8,
+      "CustomerName": "Olivia Martinez"
+    },
+    {
+      "CustomerID": 9,
+      "CustomerName": "Sophia Anderson"
+    },
+    {
+      "CustomerID": 10,
+      "CustomerName": "Matthew Thomas"
+    },
+    {
+      "CustomerID": 11,
+      "CustomerName": "Emma Jackson"
+    },
+    {
+      "CustomerID": 12,
+      "CustomerName": "Christopher White"
+    },
+    {
+      "CustomerID": 13,
+      "CustomerName": "Isabella Harris"
+    },
+    {
+      "CustomerID": 14,
+      "CustomerName": "Andrew Martin"
+    },
+    {
+      "CustomerID": 15,
+      "CustomerName": "Abigail Thompson"
+    },
+    {
+      "CustomerID": 16,
+      "CustomerName": "Joshua Garcia"
+    },
+    {
+      "CustomerID": 17,
+      "CustomerName": "Ava Robinson"
+    },
+    {
+      "CustomerID": 18,
+      "CustomerName": "William Clark"
+    }
+  ],
+
+  "transactions": [
+    {
+      "TransactionID": 1,
+      "Customer_ID": 1,
+      "TransactionDate": "2022-01-15",
+      "TransactionAmount": 1250
+    },
+    {
+      "TransactionID": 2,
+      "Customer_ID": 1,
+      "TransactionDate": "2022-02-10",
+      "TransactionAmount": 1800
+    },
+    {
+      "TransactionID": 3,
+      "Customer_ID": 2,
+      "TransactionDate": "2022-03-05",
+      "TransactionAmount": 600
+    },
+    {
+      "TransactionID": 4,
+      "Customer_ID": 2,
+      "TransactionDate": "2022-04-01",
+      "TransactionAmount": 750
+    },
+    {
+      "TransactionID": 5,
+      "Customer_ID": 3,
+      "TransactionDate": "2022-05-20",
+      "TransactionAmount": 900
+    },
+    {
+      "TransactionID": 6,
+      "Customer_ID": 3,
+      "TransactionDate": "2022-06-18",
+      "TransactionAmount": 1600
+    },
+    {
+      "TransactionID": 7,
+      "Customer_ID": 4,
+      "TransactionDate": "2022-07-25",
+      "TransactionAmount": 2200
+    },
+    {
+      "TransactionID": 8,
+      "Customer_ID": 4,
+      "TransactionDate": "2022-08-10",
+      "TransactionAmount": 950
+    },
+    {
+      "TransactionID": 9,
+      "Customer_ID": 5,
+      "TransactionDate": "2022-09-01",
+      "TransactionAmount": 1400
+    },
+    {
+      "TransactionID": 10,
+      "Customer_ID": 5,
+      "TransactionDate": "2022-10-12",
+      "TransactionAmount": 2300
+    },
+    {
+      "TransactionID": 11,
+      "Customer_ID": 6,
+      "TransactionDate": "2022-11-05",
+      "TransactionAmount": 500
+    },
+    {
+      "TransactionID": 12,
+      "Customer_ID": 6,
+      "TransactionDate": "2022-12-19",
+      "TransactionAmount": 780
+    },
+    {
+      "TransactionID": 13,
+      "Customer_ID": 7,
+      "TransactionDate": "2023-01-01",
+      "TransactionAmount": 1900
+    },
+    {
+      "TransactionID": 14,
+      "Customer_ID": 7,
+      "TransactionDate": "2023-02-20",
+      "TransactionAmount": 820
+    },
+    {
+      "TransactionID": 15,
+      "Customer_ID": 8,
+      "TransactionDate": "2023-03-15",
+      "TransactionAmount": 1120
+    },
+    {
+      "TransactionID": 16,
+      "Customer_ID": 8,
+      "TransactionDate": "2023-04-18",
+      "TransactionAmount": 2700
+    },
+    {
+      "TransactionID": 17,
+      "Customer_ID": 9,
+      "TransactionDate": "2023-05-25",
+      "TransactionAmount": 950
+    },
+    {
+      "TransactionID": 18,
+      "Customer_ID": 9,
+      "TransactionDate": "2023-06-12",
+      "TransactionAmount": 1150
+    },
+    {
+      "TransactionID": 19,
+      "Customer_ID": 10,
+      "TransactionDate": "2023-07-01",
+      "TransactionAmount": 2600
+    },
+    {
+      "TransactionID": 20,
+      "Customer_ID": 10,
+      "TransactionDate": "2023-08-19",
+      "TransactionAmount": 870
+    },
+    {
+      "TransactionID": 21,
+      "Customer_ID": 11,
+      "TransactionDate": "2023-09-09",
+      "TransactionAmount": 950
+    },
+    {
+      "TransactionID": 22,
+      "Customer_ID": 11,
+      "TransactionDate": "2023-10-22",
+      "TransactionAmount": 1520
+    },
+    {
+      "TransactionID": 23,
+      "Customer_ID": 12,
+      "TransactionDate": "2023-11-18",
+      "TransactionAmount": 750
+    },
+    {
+      "TransactionID": 24,
+      "Customer_ID": 12,
+      "TransactionDate": "2023-12-24",
+      "TransactionAmount": 1350
+    },
+    {
+      "TransactionID": 25,
+      "Customer_ID": 13,
+      "TransactionDate": "2024-01-14",
+      "TransactionAmount": 2200
+    },
+    {
+      "TransactionID": 26,
+      "Customer_ID": 13,
+      "TransactionDate": "2024-02-28",
+      "TransactionAmount": 1100
+    },
+    {
+      "TransactionID": 27,
+      "Customer_ID": 14,
+      "TransactionDate": "2024-03-21",
+      "TransactionAmount": 1950
+    },
+    {
+      "TransactionID": 28,
+      "Customer_ID": 14,
+      "TransactionDate": "2024-04-25",
+      "TransactionAmount": 870
+    },
+    {
+      "TransactionID": 29,
+      "Customer_ID": 15,
+      "TransactionDate": "2024-05-05",
+      "TransactionAmount": 1350
+    },
+    {
+      "TransactionID": 30,
+      "Customer_ID": 15,
+      "TransactionDate": "2024-06-18",
+      "TransactionAmount": 2100
+    },
+    {
+      "TransactionID": 31,
+      "Customer_ID": 16,
+      "TransactionDate": "2024-07-01",
+      "TransactionAmount": 500
+    },
+    {
+      "TransactionID": 32,
+      "Customer_ID": 16,
+      "TransactionDate": "2024-08-15",
+      "TransactionAmount": 1400
+    },
+    {
+      "TransactionID": 33,
+      "Customer_ID": 17,
+      "TransactionDate": "2024-09-10",
+      "TransactionAmount": 750
+    },
+    {
+      "TransactionID": 34,
+      "Customer_ID": 17,
+      "TransactionDate": "2024-10-20",
+      "TransactionAmount": 1250
+    },
+    {
+      "TransactionID": 35,
+      "Customer_ID": 18,
+      "TransactionDate": "2024-11-02",
+      "TransactionAmount": 2500
+    },
+    {
+      "TransactionID": 36,
+      "Customer_ID": 18,
+      "TransactionDate": "2024-12-18",
+      "TransactionAmount": 975
+    }
+  ]
+}
